@@ -1,5 +1,5 @@
-# React + Vite
-
+# MoviePlace - react
+This is a verr minimal website created using react while i am learning react as a practice project.
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
